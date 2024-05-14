@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2d3fc848-1a82-4571-95d7-9ed8edb76eeb">
+  <name>МС_КонструкцияФорм</name>
+  <synonym>
+    <key>ru</key>
+    <value>Конструкция форм</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>
